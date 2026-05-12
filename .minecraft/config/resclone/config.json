@@ -2,14 +2,21 @@
     packs: [
         {
             fetcher: "file",
-            source: "https://github.com/SlarofMC/Slarof_Resourcepacks/releases/download/ksepsp/RP.KSEPSP.zip",
+            source: "https://github.com/SlarofMC/Slarof_Additions/releases/download/ksepsp/RP.KSEPSP.zip",
             name: "KSEPSP",
             forceDownload: true,
             forceEnable: true
         },
         {
             fetcher: "file",
-            source: "https://github.com/SlarofMC/Slarof_Resourcepacks/releases/download/slarof-additions/RP.Slarof_Additions.zip",
+            source: "https://github.com/Slarof/RP.KSEPSP-EcoEnchants/releases/download/release/RP.KSEPSP-EcoEnchants.zip",
+            name: "KSEPSP-EcoEnchants",
+            forceDownload: true,
+            forceEnable: true
+        },
+        {
+            fetcher: "file",
+            source: "https://github.com/SlarofMC/Slarof_Additions/releases/download/slarof-additions/RP.Slarof_Additions.zip",
             name: "Slarof Additions",
             forceDownload: true,
             forceEnable: true
