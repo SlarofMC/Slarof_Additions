@@ -7,7 +7,7 @@
 
 
 ### Автоматическая загрузка и обновление текстурпаков
-1. Установите модификацию [Resclone](https://modrinth.com/mod/resclone/versions) в `.minecraft/mods`
-2. Вставьте [конфигурацию](https://github.com/SlarofMC/Slarof_Resourcepacks/blob/resourcepacks/.minecraft/config/resclone/config.json) в `.minecraft/config`
+1. Скачайте модификацию [Resclone](https://modrinth.com/mod/resclone/versions) в `.minecraft/mods`
+2. Скачайте [конфигурацию](https://github.com/SlarofMC/Slarof_Resourcepacks/blob/resourcepacks/.minecraft/config/resclone/config.json) и вставьте в `.minecraft/config`
 3. Запустите игру и включите текстурпак в настройках `Наборы ресурсов`
 4. Готово
