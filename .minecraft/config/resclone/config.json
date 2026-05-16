@@ -5,7 +5,7 @@
             source: "https://github.com/SlarofMC/Slarof_Additions/releases/download/ksepsp/RP.KSEPSP.zip",
             name: "KSEPSP",
             forceDownload: true,
-            forceEnable: true
+            forceEnable: false
         },
         {
             fetcher: "file",
