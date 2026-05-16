@@ -3,6 +3,7 @@
 
 - [Slarof Additions](https://github.com/SlarofMC/Slarof_Resourcepacks/releases/tag/slarof-additions) - дополнительный контент для сервера
 - [КСЭПСП](https://github.com/SlarofMC/Slarof_Resourcepacks/releases/tag/ksepsp) - контент для ролевой игры
+  - [КСЕПСП & EcoEnchants](https://github.com/Slarof/RP.KSEPSP-EcoEnchants/releases) - поддержка КСЭПСП при использовании EcoEnchants
 
 
 
